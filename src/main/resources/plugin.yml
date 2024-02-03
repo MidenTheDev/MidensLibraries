@@ -1,0 +1,4 @@
+name: MidensLibraries
+version: '${project.version}'
+main: net.cozycosmos.midenslibraries.MidensLibraries
+api-version: '1.20'
